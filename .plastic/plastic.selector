@@ -1,0 +1,4 @@
+repository "Takeshi’s Squids@marcel_k1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
